@@ -1,4 +1,4 @@
-<img width="1536" height="2048" alt="975DEE66-728B-4AA3-A68C-9D05D05176AB_scrubbed" src="https://github.com/user-attachments/assets/7498b5dd-84c2-4973-8392-c8b6092e0a41" /># My X200 ThinkPad, A journey for privacy
+# My X200 ThinkPad, A journey for privacy
 
 This repository documents my journey with the classic X200 ThinkPad, which I have made fully libre and optimised for privacy and security. I was able to Libreboot my X200 using a CH341A programmer. Guides online and especially the libreboot website for the X200 made the process pretty easy. I initially chose Ubuntu Desktop for this project, but quickly switched to PureOS for its focus on privacy and a completely free software ecosystem with no proprietary software, which better suited the project.
 
